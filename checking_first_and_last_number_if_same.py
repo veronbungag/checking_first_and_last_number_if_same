@@ -1,5 +1,8 @@
 #define a function for  list of numbers
 def first_last_same(numberList):
+    #print given list
+    print("Given list:", numberList)
+    
     first_number = numberList[0]
     last_number = numberList[-1]
 #if first number is equal to last number, return True
