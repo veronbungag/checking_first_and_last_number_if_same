@@ -15,3 +15,4 @@ print("result is", first_last_same(numbers_set1))
 #given list set 2
 numbers_set2 = [75, 65, 35, 75, 30]
 #print result for Set 2
+print("result is", first_last_same(numbers_set2))
