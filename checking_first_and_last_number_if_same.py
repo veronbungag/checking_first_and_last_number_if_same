@@ -6,6 +6,8 @@ def first_last_same(numberList):
     if first_number == last_number:
         return True
 #if neither condition above is met, return False
+    else:
+        return False
 #given list set 1
 #print result for Set 1
 #given list set 2
